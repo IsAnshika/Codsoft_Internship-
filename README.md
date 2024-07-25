@@ -1,3 +1,4 @@
+#CODSOFT @CODSOFT
 During my internship as a Data Science Intern, I successfully completed three key projects. First, I worked on the Titanic Survival Prediction dataset, where I built and evaluated a model to predict passenger survival chances. Second, I analyzed the IMDb Movie Rating dataset, focusing on data cleaning, visualization, and exploring movie ratings. Lastly, I conducted an in-depth analysis of the Iris Flower dataset, including exploratory data analysis, visualization, and building a classification model. These projects enhanced my skills in data preprocessing, statistical analysis, and machine learning.
 1. Titanic Survival Prediction Dataset: Developed a predictive model to estimate the survival likelihood of passengers on the Titanic. This involved preprocessing the data, handling missing values, feature engineering, and training a logistic regression model to make accurate predictions.
 
